@@ -1,6 +1,6 @@
 // Import Web3.js (make sure you have it installed)
 // You'll need to connect to an Ethereum node, like Infura, and provide your contract address
-const web3 = new Web3(new Web3.providers.HttpProvider("YOUR_ETHEREUM_NODE_URL"));
+const web3 = new Web3(new Web3.providers.HttpProvider("bafybeicgfjbb2akt5jss76nlwg6kqpap3gkikiaulj3ghkk3tm3vvvdmv4"));
 const contractAddress = "0xba1d26b014a08a776b6d75ad065b4b249bc92e77";
 
 // Function to fetch NFT data from the Ethereum contract
